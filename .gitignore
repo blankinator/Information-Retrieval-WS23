@@ -1,0 +1,5 @@
+# exclude virtual environments
+venv/
+
+# exclude bullshit .idea folder
+.idea/
