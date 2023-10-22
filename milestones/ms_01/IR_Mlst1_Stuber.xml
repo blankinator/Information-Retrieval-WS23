@@ -1,12 +1,12 @@
 <topics>
   <topic>
     <number>00110001</number>
-    <text>Data Privacy in Social Media</text>
+    <text>Data Privacy Protection in Social Media</text>
     <description>
-      What research papers address issues related to data privacy in the context of social media platforms?
+      What research papers discuss issues, stategies, and technologies for protecting data privacy on social media platforms?
     </description>
     <narrative>
-      Relevant papers should discuss data privacy concerns within the scope of social media platforms. Papers focusing on data privacy in other contexts or unrelated platforms are not relevant.
+	     Relevant papers should adress data privacy concerns, and explore strategies, technologies, or best practices for safeguarding data privacy in the context of social media platforms. Papers focusing on data privacy in other contexts or other aspects of social media are not relevant.
     </narrative>
   </topic>
 </topics>
