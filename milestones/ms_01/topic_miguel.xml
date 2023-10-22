@@ -1,0 +1,8 @@
+<topics>
+    <topic>
+        <number>2147483648</number>
+        <text>information retrieval scientific domain</text>
+        <description>What papers focus on techniques relating to information retrieval in the scientific domain?</description>
+        <narrative>Relevant papers include research on how information retrieval systems are adapted to work better in the scientific domain (e.g. papers and similar publications). Papers focusing on something else, or not related specifically to the scientific domain are not relevant.</narrative>
+    </topic>
+</topics>
